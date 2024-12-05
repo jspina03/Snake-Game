@@ -1,8 +1,2 @@
 # Features 
-Score written in upper left corner
-Animated snake head, obstacle, and food (.png and .jpeg files)
-Body of snake circles instead of square
-Snake grows when food is eaten 
-Another obstacle is generated when the length of snake is an interval of 3 (3, 6, 9, etc.)
-‘C’ to replay , ‘Q’ to quit 
-Game over when you collide with an obstacle or a boundary 
+The Score is written in the upper left-hand corner. The .png and .jpeg files are the animated snakehead, food, and obstacles. The body of the snake is displayed as circles instead of squares. The snake grows when food is eaten, and another obstacle is generated when the length of snake is an interval of 3. Use the arrows on your kewboard to move the snake. Press ‘C’ to replay and ‘Q’ to quit. The game is over when you collide with an obstacle or a boundary. 
